@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gaming Keyboard",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fantesports.com%2Fwp-content%2Fuploads%2F2023%2F04%2F1_c5c6da47-29a5-434c-8b45-4303e1906886.png&tbnid=-QLqRAHg3qTNAM&vet=12ahUKEwjOk_vC4ImFAxVE1jQHHSrGAQEQMygcegUIARDMAQ..i&imgrefurl=https%3A%2F%2Fantesports.com%2Fproduct%2Fant-esports-mk1200-mini-wired-mechanical-gaming-keyboard-with-red-swtiches%2F&docid=MM1MdNANFjC7hM&w=1000&h=1000&q=Gaming%20Keyboard&ved=2ahUKEwjOk_vC4ImFAxVE1jQHHSrGAQEQMygcegUIARDMAQ",
+      "description": "Mechanical gaming keyboard with RGB backlight.",
+      "price": 50,
+      "category": "Keyboard"
+    },
+    {
+      "id": 2,
+      "name": "Gaming Mouse",
+      "image": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fmedia.wired.com%2Fphotos%2F65b0438c22aa647640de5c75%2Fmaster%2Fpass%2FMechanical-Keyboard-Guide-Gear-GettyImages-1313504623.jpg&tbnid=xLZe_sTXsPHvbM&vet=12ahUKEwjOk_vC4ImFAxVE1jQHHSrGAQEQMygHegUIARCaAQ..i&imgrefurl=https%3A%2F%2Fwww.wired.com%2Fstory%2Fhow-to-shop-for-a-mechanical-keyboard%2F&docid=ieKWrzNnQyluAM&w=2400&h=1800&q=Gaming%20Keyboard&ved=2ahUKEwjOk_vC4ImFAxVE1jQHHSrGAQEQMygHegUIARCaAQ",
+      "description": "High DPI gaming mouse with customizable buttons.",
+      "price": 40,
+      "category": "Mouse"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Headset",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fnzxt.com%2Fassets%2Fcms%2F34299%2F1707523165-function-2-hero-white.png%3Far64%3DMTox%26auto%3Dformat%26fit%3Dcrop%26h%3D400%26w%3D400&tbnid=bowBXO3KYRLiCM&vet=12ahUKEwjOk_vC4ImFAxVE1jQHHSrGAQEQMygiegUIARDaAQ..i&imgrefurl=https%3A%2F%2Fnzxt.com%2Fcollection%2Fkeyboard&docid=BjDtza6zV1YTGM&w=400&h=400&q=Gaming%20Keyboard&ved=2ahUKEwjOk_vC4ImFAxVE1jQHHSrGAQEQMygiegUIARDaAQ",
+      "description": "Immersive gaming headset with surround sound.",
+      "price": 60,
+      "category": "Headset"
+    },
+    {
+      "id": 707,
+      "name": "lam",
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwebaffiliatevn.com%2Fwp-content%2Fuploads%2F2020%2F08%2FIMGLOGO_Primary_CMYK_Blue_Rel_webready.jpg&tbnid=3v941ILBDMMpKM&vet=12ahUKEwix5Z_r--2CAxUJCIgKHeflAYYQMygCegQIARBM..i&imgrefurl=https%3A%2F%2Fwebaffiliatevn.com%2Fthe-img-trong-html%2F&docid=XjCGkKQaOmFH2M&w=480&h=283&q=img&ved=2ahUKEwix5Z_r--2CAxUJCIgKHeflAYYQMygCegQIARBM",
+      "description": "dsda",
+      "price": 200,
+      "category": "Mouse"
+    }
+  ]
+}
